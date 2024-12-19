@@ -1,5 +1,5 @@
 # Module-Eight-Journal
-How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+How do I interpret user needs and implement them into a program? How does creating "user stories" help with this? /n
 Understanding and addressing user needs is crucial for developing successful software. User stories, a core component of Agile methodologies, provide a valuable framework for capturing and prioritizing user requirements. Development teams can focus on delivering value incrementally by breaking down complex features into smaller, user-centric stories. We can gather insights into user preferences, pain points, and desired outcomes through user interviews, surveys, and usability testing. These insights inform the creation of well-defined user stories, which guide the development process and ensure that the final product meets user expectations.
 For example, the SNHU Travel App, a user story might be: "As a frequent traveler, I want to be able to search for flights by destination and date so that I can easily find the best deals." This story clearly defines the user role, the desired action, and the expected outcome.
 How do I approach developing programs? What Agile processes do I want to incorporate into my future development work?
